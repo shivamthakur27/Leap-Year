@@ -1,10 +1,10 @@
 import org.junit.Test;
 
-public class LeapTest
+public class LeapYearTest
 {
     @Test
     public void test()
     {
-        
+
     }
 }
